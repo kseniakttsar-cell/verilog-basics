@@ -9,3 +9,13 @@ Simple synchronous 4-bit counter with reset
 
 sm_led.v  
 Example of a simple finite state machine controlling LED behavior
+Modules:
+
+counter.v  
+Simple synchronous 4-bit counter with reset
+
+sm_led.v  
+Example of a simple finite state machine controlling LED behavior
+
+button_debounce.v  
+Basic button debounce module for stable input signal processing
